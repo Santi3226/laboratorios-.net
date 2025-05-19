@@ -1,0 +1,1 @@
+La probabilidad define la chance de ocurrencia de un suceso A dado por un valor entre 0 y 1
