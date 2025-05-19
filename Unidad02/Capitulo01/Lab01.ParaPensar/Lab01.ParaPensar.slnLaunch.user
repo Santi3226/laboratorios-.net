@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Suma\\Suma.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AñoBisiesto\\AñoBisiesto.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SumaFibonacci\\SumaFibonacci.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Pares\\Pares.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Meses\\Meses.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Romano\\Romano.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Piramide\\Piramide.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
