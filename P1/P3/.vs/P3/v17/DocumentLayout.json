@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santiago\\Documents\\Escuela\\2025\\NET\\P1\\P3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D615914-C955-4964-89CC-92B2FFE64CB0}|Clases\\Clases.csproj|c:\\users\\santiago\\documents\\escuela\\2025\\net\\p1\\p3\\clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D615914-C955-4964-89CC-92B2FFE64CB0}|Clases\\Clases.csproj|solutionrelative:clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D615914-C955-4964-89CC-92B2FFE64CB0}|Clases\\Clases.csproj|c:\\users\\santiago\\documents\\escuela\\2025\\net\\p1\\p3\\clases\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D615914-C955-4964-89CC-92B2FFE64CB0}|Clases\\Clases.csproj|solutionrelative:clases\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D615914-C955-4964-89CC-92B2FFE64CB0}|Clases\\Clases.csproj|c:\\users\\santiago\\documents\\escuela\\2025\\net\\p1\\p3\\clases\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D615914-C955-4964-89CC-92B2FFE64CB0}|Clases\\Clases.csproj|solutionrelative:clases\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6436C05B-7526-402E-AA85-5C5A6E3F7B0A}|P3\\P3.csproj|c:\\users\\santiago\\documents\\escuela\\2025\\net\\p1\\p3\\p3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6436C05B-7526-402E-AA85-5C5A6E3F7B0A}|P3\\P3.csproj|solutionrelative:p3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D615914-C955-4964-89CC-92B2FFE64CB0}|Clases\\Clases.csproj|c:\\users\\santiago\\documents\\escuela\\2025\\net\\p1\\p3\\clases\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{6D615914-C955-4964-89CC-92B2FFE64CB0}|Clases\\Clases.csproj|solutionrelative:clases\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\Escuela\\2025\\NET\\P1\\P3\\Clases\\Lista.cs",
+              "RelativeDocumentMoniker": "Clases\\Lista.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\Escuela\\2025\\NET\\P1\\P3\\Clases\\Lista.cs",
+              "RelativeToolTip": "Clases\\Lista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:11:23.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\Escuela\\2025\\NET\\P1\\P3\\Clases\\Moto.cs",
+              "RelativeDocumentMoniker": "Clases\\Moto.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\Escuela\\2025\\NET\\P1\\P3\\Clases\\Moto.cs",
+              "RelativeToolTip": "Clases\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:07:27.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\Escuela\\2025\\NET\\P1\\P3\\Clases\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Clases\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\Escuela\\2025\\NET\\P1\\P3\\Clases\\Vehiculo.cs",
+              "RelativeToolTip": "Clases\\Vehiculo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:06:04.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\Escuela\\2025\\NET\\P1\\P3\\Clases\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Clases\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\Escuela\\2025\\NET\\P1\\P3\\Clases\\ClassDiagram1.cd",
+              "RelativeToolTip": "Clases\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-06-02T01:04:57.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\Escuela\\2025\\NET\\P1\\P3\\P3\\Program.cs",
+              "RelativeDocumentMoniker": "P3\\Program.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\Escuela\\2025\\NET\\P1\\P3\\P3\\Program.cs",
+              "RelativeToolTip": "P3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:04:27.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
